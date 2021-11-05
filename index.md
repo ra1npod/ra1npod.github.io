@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to The Odyssey Repair Group
 
-You can use the [editor on GitHub](https://github.com/ra1npod/ra1npod.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Check out our [iFixit Group](https://www.ifixit.com/Team/44402/The+Odyssey+Repair+Group)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
